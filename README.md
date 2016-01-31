@@ -1,2 +1,2 @@
 # myBase
-It is a software written notes.
+这些是我在平时学习中，对各部分知识学习后整理的资料，方便今后再次浏览和温习！
